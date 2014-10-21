@@ -73,7 +73,7 @@ h6, .h6 {
 }
 
 .jumbotron {
-  background: url("/assets/images/kate-horman.png") right center no-repeat, url("/assets/images/home-banner-2560x500-light.jpg") center center no-repeat;
+  background: url("../images/kate-horman.png") right center no-repeat, url("../images/home-banner-2560x500-light.jpg") center center no-repeat;
   margin-bottom: 0;
   color: #fff;
   padding: 80px 0;
